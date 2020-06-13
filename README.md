@@ -1,2 +1,2 @@
 # URI-exercicios
- Exercícios propostos no site URI(Online Judge Problems & Contests)
+ Exercícios propostos no site URI(Online Judge Problems & Contests).
